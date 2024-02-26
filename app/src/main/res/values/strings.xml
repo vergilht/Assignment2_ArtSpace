@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">Art Space</string>
+    <string name="leonardo">Mona Lisa del Giocondo</string>
+    <string name="leonardo_artist_year">Leonardo da Vinci - between 1503 and 1506</string>
+    <string name="monet">Madame Monet and Her Son</string>
+    <string name="monet_artist_year">Claude Monet - 1875</string>
+    <string name="munch">The Scream</string>
+    <string name="munch_artist_year">Edvard Munch - 1895</string>
+    <string name="vermeer">Girl with a Pearl Earring</string>
+    <string name="vermeer_artist_year">Johannes Vermeer - 1665</string>
+</resources>
